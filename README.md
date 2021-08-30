@@ -57,7 +57,7 @@ There are various gains in our lives through AI applications. With recommendatio
 ### What do we lose by having AI in our daily lives? (p. 26)
 We can lose a sense of privacy since all aspects of our daily lives are being tracked and fed to various types of machine learning applications. Everything ranging from search history to liked shows to purchased items are all being recorded. This may seem invasive, although these features are meant to improve our lives. Additionally, machine learning algorithms can perpetuate bias depending on what type of training data was provided.
 
-### Use the prompts below to help design an AI system.
+### Use the prompts below to help design an AI system. (p. 28)
 
 #### What problem are you trying to address?
 Students have to spend a lot of time searching through courses and picking them based on degree requirements and personal interests.
